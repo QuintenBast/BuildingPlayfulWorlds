@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPPS_2", "FPPS_2.csproj", "{667DBEEA-003E-0419-1EF3-B0911506EF4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPPS_2.Plugins", "FPPS_2.Plugins.csproj", "{F76CBB36-D9A2-6BE1-DA6F-A8ECAC64EA74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPPS_2.Editor.Plugins", "FPPS_2.Editor.Plugins.csproj", "{1F1DB636-6DF2-291B-611A-BED87AEA063C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667DBEEA-003E-0419-1EF3-B0911506EF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667DBEEA-003E-0419-1EF3-B0911506EF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667DBEEA-003E-0419-1EF3-B0911506EF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667DBEEA-003E-0419-1EF3-B0911506EF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76CBB36-D9A2-6BE1-DA6F-A8ECAC64EA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76CBB36-D9A2-6BE1-DA6F-A8ECAC64EA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76CBB36-D9A2-6BE1-DA6F-A8ECAC64EA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76CBB36-D9A2-6BE1-DA6F-A8ECAC64EA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1DB636-6DF2-291B-611A-BED87AEA063C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1DB636-6DF2-291B-611A-BED87AEA063C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1DB636-6DF2-291B-611A-BED87AEA063C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1DB636-6DF2-291B-611A-BED87AEA063C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
